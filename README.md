@@ -1,2 +1,2 @@
-# quiz-game
-my quiz
+# Project37
+MY QUIZ GAME
